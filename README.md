@@ -1,4 +1,5 @@
-### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
+ cd WASI-BUG-BOT
+ ### deployment video must watch at [click to watch viudeo](https://youtu.be/7LgbTj6PTGw?si=Q5SG4cITu_LjomKw)
 
 
 <p align="center">  
